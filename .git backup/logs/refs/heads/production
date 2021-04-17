@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 921c4cb210e777918859553057c919a4f2441563 Federico Castañares <federico.castanares@gmail.com> 1603575415 -0300	commit (initial): Initial commit
+921c4cb210e777918859553057c919a4f2441563 3796284cea1d2aa505b6046131f4579a90e92815 Federico Castañares <federico.castanares@gmail.com> 1603575800 -0300	merge develop: Fast-forward
+3796284cea1d2aa505b6046131f4579a90e92815 9c0dd489372c75c00fe4121d1e2b1703edf9606e Federico Castañares <federico.castanares@gmail.com> 1604180010 -0300	merge develop: Fast-forward
+9c0dd489372c75c00fe4121d1e2b1703edf9606e 3e41fe9378a15c25c2ee444ce6447e5f2f3a7d27 Federico Castañares <federico.castanares@gmail.com> 1604183151 -0300	commit: handling error in login and register
+3e41fe9378a15c25c2ee444ce6447e5f2f3a7d27 70ececd6d1891aa8077e4b86048df5c43b3dccf2 Federico Castañares <federico.castanares@gmail.com> 1604186221 -0300	commit: cors in login rout
+70ececd6d1891aa8077e4b86048df5c43b3dccf2 0634b3b6eb7681792d891b1f63a2a7df146d8aa8 Federico Castañares <federico.castanares@gmail.com> 1604187537 -0300	commit: try en login controller'
+0634b3b6eb7681792d891b1f63a2a7df146d8aa8 db6426f46b166101f3fde00668d1e1f04de45a1d Federico Castañares <federico.castanares@gmail.com> 1604187916 -0300	commit: config cors
+db6426f46b166101f3fde00668d1e1f04de45a1d 0375f902a26a656c93b52b56300610bc14040f91 Federico Castañares <federico.castanares@gmail.com> 1604189064 -0300	commit: ip listen
+0375f902a26a656c93b52b56300610bc14040f91 3046423a5cf4baa670256ba72c61f196ba31c5b2 Federico Castañares <federico.castanares@gmail.com> 1604241845 -0300	commit: login fix
+3046423a5cf4baa670256ba72c61f196ba31c5b2 eb038c3b85b9166d30903e9c5eea4eb9557de7b5 Federico Castañares <federico.castanares@gmail.com> 1604270477 -0300	commit: cors protect
+eb038c3b85b9166d30903e9c5eea4eb9557de7b5 04c35ac6bd766695bd4727aa367b8e78070789b0 Federico Castañares <federico.castanares@gmail.com> 1604270997 -0300	commit: tolowercase
+04c35ac6bd766695bd4727aa367b8e78070789b0 79cf7c30326b927ad4d27da89c788ee8686e9ac8 Federico Castañares <federico.castanares@gmail.com> 1604271965 -0300	commit: login
+79cf7c30326b927ad4d27da89c788ee8686e9ac8 55ab97fbc877ce46409d8d4529c2cc19c93ac918 Federico Castañares <federico.castanares@gmail.com> 1604276188 -0300	commit: Release 1
+55ab97fbc877ce46409d8d4529c2cc19c93ac918 ed82ff3914559a6319ea7b2ff5b06a1faa6e4a4e Federico Castañares <federico.castanares@gmail.com> 1604276376 -0300	commit: cors protect
+ed82ff3914559a6319ea7b2ff5b06a1faa6e4a4e 05c52452bcaba5ae76e3c1dee4b0aac3e6ab53b5 Federico Castañares <federico.castanares@gmail.com> 1604278695 -0300	commit: readme
+05c52452bcaba5ae76e3c1dee4b0aac3e6ab53b5 4a4f11fa16a1de689624cf6af88887ae977ddde4 Federico Castañares <federico.castanares@gmail.com> 1618696223 -0300	commit: v1

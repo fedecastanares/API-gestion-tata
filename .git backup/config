@@ -1,0 +1,28 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:fedecastanares/API-piedra-papel-tijera.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[gitflow "branch"]
+	master = production
+	develop = develop
+[gitflow "prefix"]
+	feature = usersController
+	bugfix = 
+	release = release/
+	hotfix = hotfix/
+	support = support/
+	versiontag = 
+[gitflow "path"]
+	hooks = C:/Users/Antonio Silveira/Desktop/Desarrollo/Proyecto Final A+/Backend/.git/hooks
+[branch "develop"]
+	remote = origin
+	merge = refs/heads/develop
+[branch "production"]
+	remote = origin
+	merge = refs/heads/production

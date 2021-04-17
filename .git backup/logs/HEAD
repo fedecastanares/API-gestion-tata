@@ -1,0 +1,45 @@
+0000000000000000000000000000000000000000 921c4cb210e777918859553057c919a4f2441563 Federico Castañares <federico.castanares@gmail.com> 1603575415 -0300	commit (initial): Initial commit
+921c4cb210e777918859553057c919a4f2441563 921c4cb210e777918859553057c919a4f2441563 Federico Castañares <federico.castanares@gmail.com> 1603575416 -0300	checkout: moving from production to develop
+921c4cb210e777918859553057c919a4f2441563 921c4cb210e777918859553057c919a4f2441563 Federico Castañares <federico.castanares@gmail.com> 1603575556 -0300	checkout: moving from develop to production
+921c4cb210e777918859553057c919a4f2441563 921c4cb210e777918859553057c919a4f2441563 Federico Castañares <federico.castanares@gmail.com> 1603575582 -0300	checkout: moving from production to develop
+921c4cb210e777918859553057c919a4f2441563 3796284cea1d2aa505b6046131f4579a90e92815 Federico Castañares <federico.castanares@gmail.com> 1603575744 -0300	commit: users controller
+3796284cea1d2aa505b6046131f4579a90e92815 921c4cb210e777918859553057c919a4f2441563 Federico Castañares <federico.castanares@gmail.com> 1603575796 -0300	checkout: moving from develop to production
+921c4cb210e777918859553057c919a4f2441563 3796284cea1d2aa505b6046131f4579a90e92815 Federico Castañares <federico.castanares@gmail.com> 1603575800 -0300	merge develop: Fast-forward
+3796284cea1d2aa505b6046131f4579a90e92815 3796284cea1d2aa505b6046131f4579a90e92815 Federico Castañares <federico.castanares@gmail.com> 1603575916 -0300	checkout: moving from production to develop
+3796284cea1d2aa505b6046131f4579a90e92815 3796284cea1d2aa505b6046131f4579a90e92815 Federico Castañares <federico.castanares@gmail.com> 1603575984 -0300	reset: moving to HEAD
+3796284cea1d2aa505b6046131f4579a90e92815 0cdc870fc92127a079b3e663d7769326d4aaffec Federico Castañares <federico.castanares@gmail.com> 1603576141 -0300	commit: trabajando en develo
+0cdc870fc92127a079b3e663d7769326d4aaffec 59bfad33955ac24d92d394d5496cb9fe54e186ec Federico Castañares <federico.castanares@gmail.com> 1603577168 -0300	commit: games model
+59bfad33955ac24d92d394d5496cb9fe54e186ec a3c24183bf3528ccba9a51445b07cfc6dbfa8542 Federico Castañares <federico.castanares@gmail.com> 1603668874 -0300	commit: get Users
+a3c24183bf3528ccba9a51445b07cfc6dbfa8542 c7c71b0c794f530abb734c87caccad489d63591b Federico Castañares <federico.castanares@gmail.com> 1603679208 -0300	commit: get players
+c7c71b0c794f530abb734c87caccad489d63591b 2e68a4a21db6e3cbce3ab948040abf63d32cf9a1 Federico Castañares <federico.castanares@gmail.com> 1603759345 -0300	commit: working on games post
+2e68a4a21db6e3cbce3ab948040abf63d32cf9a1 ad8e0a7605540c09279b22831a14a4861c5dfcb4 Federico Castañares <federico.castanares@gmail.com> 1603840897 -0300	commit: Post in game collection new games
+ad8e0a7605540c09279b22831a14a4861c5dfcb4 e8bb68579205c47f50eed2572e53660b96750197 Federico Castañares <federico.castanares@gmail.com> 1603932200 -0300	commit: get games
+e8bb68579205c47f50eed2572e53660b96750197 5f1e7602126517f263107c71638f11a266cbb446 Federico Castañares <federico.castanares@gmail.com> 1604019282 -0300	commit: adding nameHost and nameRival
+5f1e7602126517f263107c71638f11a266cbb446 ad27b407173216314706bdeeaf3f03497a029897 Federico Castañares <federico.castanares@gmail.com> 1604108341 -0300	commit: /games/:id controlles
+ad27b407173216314706bdeeaf3f03497a029897 ad27b407173216314706bdeeaf3f03497a029897 Federico Castañares <federico.castanares@gmail.com> 1604179978 -0300	checkout: moving from develop to develop
+ad27b407173216314706bdeeaf3f03497a029897 9c0dd489372c75c00fe4121d1e2b1703edf9606e Federico Castañares <federico.castanares@gmail.com> 1604179989 -0300	commit: check game is completed
+9c0dd489372c75c00fe4121d1e2b1703edf9606e 3796284cea1d2aa505b6046131f4579a90e92815 Federico Castañares <federico.castanares@gmail.com> 1604180005 -0300	checkout: moving from develop to production
+3796284cea1d2aa505b6046131f4579a90e92815 9c0dd489372c75c00fe4121d1e2b1703edf9606e Federico Castañares <federico.castanares@gmail.com> 1604180010 -0300	merge develop: Fast-forward
+9c0dd489372c75c00fe4121d1e2b1703edf9606e 3e41fe9378a15c25c2ee444ce6447e5f2f3a7d27 Federico Castañares <federico.castanares@gmail.com> 1604183151 -0300	commit: handling error in login and register
+3e41fe9378a15c25c2ee444ce6447e5f2f3a7d27 70ececd6d1891aa8077e4b86048df5c43b3dccf2 Federico Castañares <federico.castanares@gmail.com> 1604186221 -0300	commit: cors in login rout
+70ececd6d1891aa8077e4b86048df5c43b3dccf2 0634b3b6eb7681792d891b1f63a2a7df146d8aa8 Federico Castañares <federico.castanares@gmail.com> 1604187537 -0300	commit: try en login controller'
+0634b3b6eb7681792d891b1f63a2a7df146d8aa8 db6426f46b166101f3fde00668d1e1f04de45a1d Federico Castañares <federico.castanares@gmail.com> 1604187916 -0300	commit: config cors
+db6426f46b166101f3fde00668d1e1f04de45a1d 0375f902a26a656c93b52b56300610bc14040f91 Federico Castañares <federico.castanares@gmail.com> 1604189064 -0300	commit: ip listen
+0375f902a26a656c93b52b56300610bc14040f91 3046423a5cf4baa670256ba72c61f196ba31c5b2 Federico Castañares <federico.castanares@gmail.com> 1604241845 -0300	commit: login fix
+3046423a5cf4baa670256ba72c61f196ba31c5b2 eb038c3b85b9166d30903e9c5eea4eb9557de7b5 Federico Castañares <federico.castanares@gmail.com> 1604270477 -0300	commit: cors protect
+eb038c3b85b9166d30903e9c5eea4eb9557de7b5 04c35ac6bd766695bd4727aa367b8e78070789b0 Federico Castañares <federico.castanares@gmail.com> 1604270997 -0300	commit: tolowercase
+04c35ac6bd766695bd4727aa367b8e78070789b0 79cf7c30326b927ad4d27da89c788ee8686e9ac8 Federico Castañares <federico.castanares@gmail.com> 1604271965 -0300	commit: login
+79cf7c30326b927ad4d27da89c788ee8686e9ac8 55ab97fbc877ce46409d8d4529c2cc19c93ac918 Federico Castañares <federico.castanares@gmail.com> 1604276188 -0300	commit: Release 1
+55ab97fbc877ce46409d8d4529c2cc19c93ac918 ed82ff3914559a6319ea7b2ff5b06a1faa6e4a4e Federico Castañares <federico.castanares@gmail.com> 1604276376 -0300	commit: cors protect
+ed82ff3914559a6319ea7b2ff5b06a1faa6e4a4e 05c52452bcaba5ae76e3c1dee4b0aac3e6ab53b5 Federico Castañares <federico.castanares@gmail.com> 1604278695 -0300	commit: readme
+05c52452bcaba5ae76e3c1dee4b0aac3e6ab53b5 9c0dd489372c75c00fe4121d1e2b1703edf9606e Federico Castañares <federico.castanares@gmail.com> 1610911032 -0300	checkout: moving from production to develop
+9c0dd489372c75c00fe4121d1e2b1703edf9606e 05c52452bcaba5ae76e3c1dee4b0aac3e6ab53b5 Federico Castañares <federico.castanares@gmail.com> 1610911046 -0300	checkout: moving from develop to production
+05c52452bcaba5ae76e3c1dee4b0aac3e6ab53b5 9c0dd489372c75c00fe4121d1e2b1703edf9606e Federico Castañares <federico.castanares@gmail.com> 1610911057 -0300	checkout: moving from production to develop
+9c0dd489372c75c00fe4121d1e2b1703edf9606e 9c0dd489372c75c00fe4121d1e2b1703edf9606e Federico Castañares <federico.castanares@gmail.com> 1610911092 -0300	checkout: moving from develop to develop
+9c0dd489372c75c00fe4121d1e2b1703edf9606e 05c52452bcaba5ae76e3c1dee4b0aac3e6ab53b5 Federico Castañares <federico.castanares@gmail.com> 1610911109 -0300	checkout: moving from develop to production
+05c52452bcaba5ae76e3c1dee4b0aac3e6ab53b5 9c0dd489372c75c00fe4121d1e2b1703edf9606e Federico Castañares <federico.castanares@gmail.com> 1610911114 -0300	checkout: moving from production to develop
+9c0dd489372c75c00fe4121d1e2b1703edf9606e b04cf2fd8c1fbed0e346d366b252b5950cc2f962 Federico Castañares <federico.castanares@gmail.com> 1610913703 -0300	commit: cors for development
+b04cf2fd8c1fbed0e346d366b252b5950cc2f962 05c52452bcaba5ae76e3c1dee4b0aac3e6ab53b5 Federico Castañares <federico.castanares@gmail.com> 1610913718 -0300	checkout: moving from develop to production
+05c52452bcaba5ae76e3c1dee4b0aac3e6ab53b5 4a4f11fa16a1de689624cf6af88887ae977ddde4 Federico Castañares <federico.castanares@gmail.com> 1618696223 -0300	commit: v1
+4a4f11fa16a1de689624cf6af88887ae977ddde4 4a4f11fa16a1de689624cf6af88887ae977ddde4 Federico Castañares <federico.castanares@gmail.com> 1618696407 -0300	rebase (start): checkout refs/remotes/origin/production
+4a4f11fa16a1de689624cf6af88887ae977ddde4 4a4f11fa16a1de689624cf6af88887ae977ddde4 Federico Castañares <federico.castanares@gmail.com> 1618696407 -0300	rebase (finish): returning to refs/heads/production
