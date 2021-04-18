@@ -8,7 +8,7 @@ module.exports = async (request, response) => {
             users = await userModel.find({_id: {$ne : request.user.id}}, '-password -role -__v');
         } else {
             const userData = await userModel.findOne({_id: request.user.id});
-            users = await userModel.find({_id: {$ne : request.user.id}, business: userData.business, departament: userData.departament}, '-_id -password -role -__v');
+            users = await userModel.find({_id: {$ne : request.user.id}, business: userData.business}, '-_id -password -role -__v');
         }
         response.json({
             users,
