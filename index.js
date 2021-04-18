@@ -25,7 +25,13 @@ app.get('/', (req, res) => {res.send('El servidor esta corriendo')});
 
 app.post('/login', require('./controllers/users/login'));
 
-app.post('/register', require('./controllers/users/register'));
+app.post('/register', checkIfTheUserHasCredentials, checkIfTheUserIsAdmin, require('./controllers/users/register'));
+
+app.get('/user/:id', checkIfTheUserHasCredentials, checkIfTheUserIsAdmin, require('./controllers/users/getUserById'));
+
+app.delete('/user/:id', checkIfTheUserHasCredentials, checkIfTheUserIsAdmin, require('./controllers/users/deleteUserById'));
+
+app.post('/user/:id', checkIfTheUserHasCredentials, checkIfTheUserIsAdmin, require('./controllers/users/updateUserById'));
 
 app.get('/users', checkIfTheUserHasCredentials, require('./controllers/users/getUsers'));
 

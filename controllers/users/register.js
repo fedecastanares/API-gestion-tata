@@ -23,6 +23,9 @@ module.exports = (request, response) => {
         email: Joi.string()
             .email()
             .required(),
+
+        role: Joi.string()
+            .required(),
     })
     const validationResult = schema.validate(request.body);
 
@@ -37,7 +40,7 @@ module.exports = (request, response) => {
             telephone: request.body.telephone,
             email: request.body.email,
             password: passwordHash,
-            role: 'STANDARD',
+            role: request.body.role,
 
         }, (error, user) => {
             if (error) {
